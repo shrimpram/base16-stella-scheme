@@ -2,6 +2,11 @@
 
 
 ## Screenshots
+<h3 align="center">Neofetch</h3>
+<p align="center">
+    <img src="../images/demo-neofetch.png?raw=true" alt="Demo of Neofetch"/>
+</p>
+
 <h3 align="center">Java</h3>
 <p align="center">
     <img src="../images/demo-java.png?raw=true" alt="Demo of some java code" height="576"/>
