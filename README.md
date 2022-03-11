@@ -1,5 +1,6 @@
 ![Stella scheme banner](../images/banner.jpg?raw=true)
 
+## NOTE: Development has moved to [shrimpram/stella](https://github.com/shrimpram/stella), this repository is now deprecated.
 
 ## Screenshots
 <h3 align="center">Neofetch</h3>
